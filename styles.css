@@ -1,0 +1,8 @@
+img {
+    width: 200px;
+    margin: 2em;
+}
+
+#img-container {
+    display: inline-block;
+}
